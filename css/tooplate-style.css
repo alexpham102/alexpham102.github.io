@@ -124,7 +124,7 @@ b, strong {
   top: 0;
   right: 0;
   left: 0;
-  animation: BottomTotop 6s linear infinite 0s;
+  animation: BottomTotop 4s linear infinite 0s;
 }
 .animated-item:nth-child(2n+2) {
   animation-delay: 2s;
@@ -482,9 +482,9 @@ b, strong {
   }
 
   .about-image {
-    margin-top: 2em;
+    margin-top: 1em;
     position: relative;
-    top: 30px;
+    top: 10px;
   }
 
   .mobile-mt-2,
